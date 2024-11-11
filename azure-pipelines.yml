@@ -5,8 +5,7 @@
 
 trigger:
 - main
- 8 int a;
- for k int b;
+ 
  
 pool:
   vmImage: ubuntu-latest
